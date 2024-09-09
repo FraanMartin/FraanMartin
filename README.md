@@ -40,6 +40,10 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
+&emsp;
+  <a href="https://www.ibm.com/products/cobol-compiler" target="_blank">
+    <img alt="COBOL" src="https://img.shields.io/badge/COBOL-0054A6.svg?logo=cobol&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
